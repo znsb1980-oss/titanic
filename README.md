@@ -1,5 +1,5 @@
 # titanic
 
 <p align="center">
-  <img src="[https://giphy.com/gifs/titanic-chaotic-9ABgKHIu3acWA](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNm16ZDkzcmg2aWNuc2ZjaXN4dzk3Zm16d2Jvc3gyNmhwajE0dXdmdiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9ABgKHIu3acWA/giphy.gif)" alt="AI" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWR6YW5kdGxqbGd6MGY2djMzbmc5d20wZmEzZTl0dGp6MWZ0bm45MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mh7DKz8UhQQGk/giphy.gif" alt="AI" />
 </p>
